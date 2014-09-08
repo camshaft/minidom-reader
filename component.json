@@ -1,0 +1,15 @@
+{
+  "name": "minidom-reader",
+  "repo": "camshaft/minidom-reader",
+  "description": "reader for minidom representation",
+  "version": "0.1.0",
+  "keywords": [],
+  "dependencies": {
+    "camshaft/minidom-tags": "^0.1.0"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}

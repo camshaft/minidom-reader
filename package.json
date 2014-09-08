@@ -1,0 +1,25 @@
+{
+  "name": "minidom-reader",
+  "version": "0.1.0",
+  "description": "reader for minidom representation",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test ./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/camshaft/minidom-reader.git"
+  },
+  "keywords": [
+    "minidom"
+  ],
+  "author": "Cameron Bytheway <bytheway.cameron@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/camshaft/minidom-reader/issues"
+  },
+  "homepage": "https://github.com/camshaft/minidom-reader",
+  "dependencies": {
+    "minidom-tags": "^0.1.0"
+  }
+}
